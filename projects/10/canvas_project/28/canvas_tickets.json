@@ -1,0 +1,29 @@
+[
+	{"data_inicio":null,"canvas_box_id":1,"efeito":null,"canvas_project_id":28,"data_fim":null,"causa":null,"text":"Colesterol aumentado","position":1,"id":1},
+	{"data_inicio":null,"canvas_box_id":1,"efeito":null,"canvas_project_id":28,"data_fim":null,"causa":null,"text":"Mobilidade reduzida","position":1,"id":2},
+
+	{"data_inicio":null,"canvas_box_id":2,"efeito":null,"canvas_project_id":28,"data_fim":null,"causa":null,"text":"Emagrecer 10kg com saúde até 28 de fev., tendo apoio multidisciplinar e incorporando hábitos saudáveus gastando até R$ 6.5000","position":1,"id":3},
+
+	{"data_inicio":null,"canvas_box_id":3,"efeito":null,"canvas_project_id":28,"data_fim":null,"causa":null,"text":"Volta do colesterol à normalidade","position":1,"id":4},
+
+	{"data_inicio":null,"canvas_box_id":4,"efeito":null,"canvas_project_id":28,"data_fim":null,"causa":null,"text":"Eu reeducado e 10kg mais magro","position":1,"id":5},
+
+	{"id":6,"canvas_box_id":5,"text":"IMC não deve ficar acima de 25","data_inicio":null,"data_fim":null,"causa":null,"efeito":null,"canvas_project_id":28,"position":1},
+
+	{"id":7,"canvas_box_id":6,"text":"1. Esposa","data_inicio":null,"data_fim":null,"causa":null,"efeito":null,"canvas_project_id":28,"position":1},
+	{"id":8,"canvas_box_id":6,"text":"2. Mãe","data_inicio":null,"data_fim":null,"causa":null,"efeito":null,"canvas_project_id":28,"position":1},
+
+	{"id":9,"canvas_box_id":7,"text":"Mamma não vai forçar a barra com suas tradicionais sobremesas","data_inicio":null,"data_fim":null,"causa":null,"efeito":null,"canvas_project_id":28,"position":1},
+
+	{"id":10,"canvas_box_id":8,"text":"Eu (Gerente do Projeto)","data_inicio":null,"data_fim":null,"causa":null,"efeito":null,"canvas_project_id":28,"position":1},
+
+	{"id":11,"canvas_box_id":9,"text":"1. Gestão do Projeto","data_inicio":null,"data_fim":null,"causa":null,"efeito":null,"canvas_project_id":28,"position":1},
+
+	{"id":12,"canvas_box_id":10,"text":"Não posso gastar mais que 6.500 nos 4 meses de programa","data_inicio":null,"data_fim":null,"causa":null,"efeito":null,"canvas_project_id":28,"position":1},
+
+	{"id":13,"canvas_box_id":11,"text":"Causa: Sou radical e ansioso. Risco: Ficar doente devido diaete exagerada. Efeito: Cancelamento do Projeto.","data_inicio":null,"data_fim":null,"causa":null,"efeito":null,"canvas_project_id":28,"position":1},
+
+	{"id":14,"canvas_box_id":12,"text":"1. Gestão do Projeto","data_inicio":null,"data_fim":null,"causa":null,"efeito":null,"canvas_project_id":28,"position":1},
+
+	{"id":15,"canvas_box_id":13,"text":"1. R$ 90 (mat.) + R$ 300 (m.obra) --- R$ 390","data_inicio":null,"data_fim":null,"causa":null,"efeito":null,"canvas_project_id":28,"position":1}
+]
