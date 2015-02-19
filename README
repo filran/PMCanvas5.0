@@ -1,0 +1,10 @@
+CHANGE THE VARIABLE dominio OF FILES:
+	index.html
+	canvas.php
+	stake.php
+
+	json/*.js
+
+	script/atualiza.js
+
+	scripts/plugins/expand/expand.js

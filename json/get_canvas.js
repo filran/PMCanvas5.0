@@ -3,7 +3,7 @@
 // Classe para chamar o Json.
 function json(){
 	//Ex: "http://qualiept.iff.edu.br/"
-	var dominio = "http://localhost/PMCanvas4.0/";
+	var dominio = "http://localhost/PMCanvas5.0/";
 
 	// Resgatar valores.
 	json.prototype.resgatarValores = function(){

@@ -7,7 +7,7 @@
     $.fn.expand = function( tipo ){
         //o tipo é se for para amplicar post ou área
 
-		//var dominio = "http://localhost/PMCanvas4.0/";
+		var dominio = "http://localhost/PMCanvas5.0/";
 
         var time = 100; 
 
@@ -192,6 +192,7 @@
             }else{
                 $(conteudopostit)
                     .css({"top":top_conteudopostit});
+
             }
         }
 

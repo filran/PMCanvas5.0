@@ -1,7 +1,7 @@
 //LÊ TODOS OS POSTITS DO CANVAS E VERIFICA SE HÁ ALGUM NOVO NO BANCO DE DADOS E ATUALIZA AUTOMATICAMENTE
 
 (function atualiza(){
-	var dominio = "http://localhost/PMCanvas4.0/";
+	var dominio = "http://localhost/PMCanvas5.0/";
 	var time = 2500;
 	var project_id = $("#dados_projeto").attr("project_id");
 	var canvas_id  = $("#dados_canvas").attr("canvas_id");

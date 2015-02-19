@@ -1,4 +1,5 @@
-var dominio = "http://localhost/PMCanvas4.0/";
+var dominio = "http://localhost/PMCanvas5.0/";
+//var dominio = "http://odysseus-lens.ddns.net/PMCanvas5.0/";
 
 $('#projetos').change(function() {
 	var value = $('#projetos option:selected').attr("value");

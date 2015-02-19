@@ -1,4 +1,5 @@
-var dominio = "http://localhost/PMCanvas4.0/";
+var dominio = "http://localhost/PMCanvas5.0/";
+//var dominio = "http://odysseus-lens.ddns.net/PMCanvas5.0/";
 
 $.getJSON(dominio+"projects.json",function(data){
 	var project_id = [];

@@ -1,4 +1,4 @@
-var dominio = "http://localhost/PMCanvas4.0/";
+var dominio = "http://localhost/PMCanvas5.0/";
 var project_id = $("#dados_projeto").attr("project_id");
 var canvas_id  = $("#dados_canvas").attr("canvas_id");
 
